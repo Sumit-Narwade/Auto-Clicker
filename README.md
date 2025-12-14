@@ -34,3 +34,7 @@ It supports **multiple click points**, **randomized delay**, **repeat control**,
 - **PyAutoGUI** – Mouse automation
 - **pynput** – Global keyboard & mouse listener
 - **threading** – Background task handling
+
+
+<img width="551" height="650" alt="Screenshot 2025-12-14 203711" src="https://github.com/user-attachments/assets/a8ed8c18-3409-433e-8392-fe7705c997c3" />
+
